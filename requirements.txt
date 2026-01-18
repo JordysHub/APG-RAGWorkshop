@@ -1,0 +1,11 @@
+numpy<2
+torch==2.2.2
+sentence-transformers==2.6.1
+transformers<5
+streamlit
+plotly
+streamlit-plotly-events
+scikit-learn
+pandas
+datasets==3.6.0
+huggingface_hub<0.24
